@@ -3,4 +3,5 @@ In this repository, I created a dashboard that gives us the insights of the sale
 
 The dashboard:
 
-![image](https://user-images.githubusercontent.com/77020331/201518074-3792edff-9187-4e2c-9d62-1ae38e9dcaa4.png)
+![image](https://user-images.githubusercontent.com/77020331/201527024-e4b575f4-5715-4d5d-8a43-823fba163b47.png)
+
